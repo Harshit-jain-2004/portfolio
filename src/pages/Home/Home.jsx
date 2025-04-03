@@ -74,7 +74,7 @@ const Home = () => {
             </p>
             <div className="space-y-2 flex flex-col md:flex-row gap-4">
               {" "}
-              <a href={"https://drive.google.com/file/d/1SHYkYq-ynU7eYRk9gxilOorkounW8iKw/view?usp=sharing"} target="_blank" rel="noopener noreferrer">
+              <a href={"https://drive.google.com/file/d/1d5tFyR7U1wUP22iA4sUrpvgHQgpLnAzB/view?usp=sharing"} target="_blank" rel="noopener noreferrer">
                 <button className="w-fit  border border-white px-4 py-2 text-nowrap hover:bg-white hover:text-black transition-colors text-center text-sm md:text-base">
                   Checkout my Resume
                 </button>
